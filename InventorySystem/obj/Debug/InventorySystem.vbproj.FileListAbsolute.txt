@@ -1,0 +1,17 @@
+C:\Users\acer\source\repos\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\acer\source\repos\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\acer\source\repos\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\acer\source\repos\InventorySystem\InventorySystem\bin\Debug\InventorySystem.xml
+C:\Users\acer\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.vbproj.AssemblyReference.cache
+C:\Users\acer\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.vbproj.SuggestedBindingRedirects.cache
+C:\Users\acer\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Resources.resources
+C:\Users\acer\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.vbproj.GenerateResource.cache
+C:\Users\acer\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.vbproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\acer\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.xml
+C:\Users\acer\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\acer\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmMain.resources
+C:\Users\acer\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmUpdate.resources
+C:\Users\acer\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmUpdate1.resources
+C:\Users\acer\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Print1.resources
+C:\Users\acer\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.print2.resources
